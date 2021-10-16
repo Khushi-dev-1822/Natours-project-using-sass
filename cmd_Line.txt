@@ -1,0 +1,16 @@
+dekstop by default
+
+1. dir : to show all the folders present in dekstop
+2. cd : to enter one of the folders
+3. ls : to enter one of the files ffrom the selected folders
+4. touch : to add a new file into the folder
+5. mkdir: to add a new folder
+6. cd .. : move to the above folder
+7. cp : copy file 
+8. mv : move file
+9. rm - r (folder_name): remove a directory/folder
+
+
+10. npm init
+11. npm install node-sass --save-dev
+12. npm uninstall jquery --save 
